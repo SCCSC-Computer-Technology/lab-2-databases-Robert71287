@@ -1,0 +1,12 @@
+C:\Users\Robert\source\repos\lab-2-databases-RobertZheng\bin\Debug\CityDB.mdf
+C:\Users\Robert\source\repos\lab-2-databases-RobertZheng\bin\Debug\CityDB_log.ldf
+C:\Users\Robert\source\repos\lab-2-databases-RobertZheng\bin\Debug\lab-2-databases-RobertZheng.exe.config
+C:\Users\Robert\source\repos\lab-2-databases-RobertZheng\bin\Debug\lab-2-databases-RobertZheng.exe
+C:\Users\Robert\source\repos\lab-2-databases-RobertZheng\bin\Debug\lab-2-databases-RobertZheng.pdb
+C:\Users\Robert\source\repos\lab-2-databases-RobertZheng\obj\Debug\lab-2-databases-RobertZheng.csproj.AssemblyReference.cache
+C:\Users\Robert\source\repos\lab-2-databases-RobertZheng\obj\Debug\lab_2_databases_RobertZheng.Form1.resources
+C:\Users\Robert\source\repos\lab-2-databases-RobertZheng\obj\Debug\lab_2_databases_RobertZheng.Properties.Resources.resources
+C:\Users\Robert\source\repos\lab-2-databases-RobertZheng\obj\Debug\lab-2-databases-RobertZheng.csproj.GenerateResource.cache
+C:\Users\Robert\source\repos\lab-2-databases-RobertZheng\obj\Debug\lab-2-databases-RobertZheng.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\lab-2-databases-RobertZheng\obj\Debug\lab-2-databases-RobertZheng.exe
+C:\Users\Robert\source\repos\lab-2-databases-RobertZheng\obj\Debug\lab-2-databases-RobertZheng.pdb
